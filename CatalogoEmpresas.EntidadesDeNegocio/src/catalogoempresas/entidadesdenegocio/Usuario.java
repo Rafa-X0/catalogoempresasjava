@@ -123,6 +123,6 @@ public class Usuario {
     
     public class EstatusUsuario{
         public static final byte ACTIVO = 0;
-        public static final byte INACTIVO = 0;
+        public static final byte INACTIVO = 1;
     }
 }
