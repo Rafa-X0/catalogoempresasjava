@@ -1,9 +1,3 @@
-<%-- 
-    Document   : select
-    Created on : 17 ago. 2023, 11:04:48
-    Author     : Fernando Hernández
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
